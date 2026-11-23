@@ -1,0 +1,16 @@
+# Ambiente virtual (criado pelo uv sync)
+.venv/
+
+# Dados do MovieLens: baixados pelo notebook (a licença não permite redistribuir)
+data/*
+!data/.gitkeep
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
